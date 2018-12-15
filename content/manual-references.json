@@ -18,5 +18,27 @@
       "family": "Himmelstein"
     }
   ]
+},
+{
+  "type": "article-newspaper",
+  "standard_citation": "raw:fin_times",
+  "URL": "https://ft.com/content/017a3a50-f6f1-11e7-a4c9-bbdefa4f210b",
+  "title": "Cheaper DNA sequencing unlocks secrets of rare diseases",
+  "container-title": "Financial Times",
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        3,
+        5
+      ]
+    ]
+  },
+  "author": [
+    {
+      "given": "Sarah",
+      "family": "Neville"
+    }
+  ]
 }
 ]
