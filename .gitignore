@@ -15,6 +15,9 @@ ci/cache
 __pycache__/
 *.pyc
 
+# Editor
+.vscode/
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
