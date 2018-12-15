@@ -1,14 +1,13 @@
 ---
 author-meta:
-- John Doe
-- Jane Roe
-date-meta: '2018-12-13'
+- Michael Zietz
+date-meta: '2018-12-15'
 keywords:
 - markdown
 - publishing
 - manubot
 lang: en-US
-title: 'Manubot Rootstock: Manuscript Title'
+title: Network Methods for Multiomic Data Integration
 ...
 
 
@@ -18,40 +17,155 @@ title: 'Manubot Rootstock: Manuscript Title'
 
 <small><em>
 This manuscript
-([permalink](https://zietzm.github.io/integration-review/v/a817e04fcf868b2e302b0da6fed6db3c7bf9b5eb/))
+([permalink](https://zietzm.github.io/integration-review/v/e6daa0c5fbced1188c58e1824a4e4a57df1b95d5/))
 was automatically generated
-from [zietzm/integration-review@a817e04](https://github.com/zietzm/integration-review/tree/a817e04fcf868b2e302b0da6fed6db3c7bf9b5eb)
-on December 13, 2018.
+from [zietzm/integration-review@e6daa0c](https://github.com/zietzm/integration-review/tree/e6daa0c5fbced1188c58e1824a4e4a57df1b95d5)
+on December 15, 2018.
 </em></small>
 
 ## Authors
 
 
 
-+ **John Doe**<br>
++ **Michael Zietz**<br>
     ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0003-0539-630X](https://orcid.org/0000-0003-0539-630X)
     · ![GitHub icon](images/github.svg){height="13px" width="13px"}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){height="13px" width="13px"}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [zietzm](https://github.com/zietzm)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){height="13px" width="13px"}
-    [janeroe](https://github.com/janeroe)<br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Department of Physics, Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania
   </small>
 
 
 
 ## Abstract {.page_break_before}
+
+
+
+
+## Introduction
+
+In the distant past, medical knowledge advanced toward the goal of finding treatments for every condition, defined very loosely.
+Once a treatment was found, the mystery disappeared and the disease had essentially been solved.
+Massive improvements have been made in the quality of medicine and the quantity of medical knowledge under this paradigm.
+At the current stage, however, diminishing returns can be achieved by simply trying to find a treatment for a broadly-defined disease.
+Two major avenues for future improvement stand out.
+First, the implementation of knowledge in real-world clinical settings.
+Despite the immensity of hard-gotten medical information available, patients continue to die from curable diseases and medical errors.
+Without putting into practice known ways to improve medicine, future research will fail to achieve its life-saving potential.
+Second, medical research must broaden its scope to encompass more information while zooming in to identify the specific biological foundations of disease, including the differences between individuals at the molecular level.
+Research toward the second goal is known as precision medicine, and this review covers a sub-field within precision medicine research.
+
+### Omics and precision medicine
+
+Precision medicine entails custom-tailoring health care to individual patients based on their personal, clinical, and molecular profiles.
+The goal of precision medicine is to improve prevention, diagnosis, and treatment by accounting for the medically-relevant differences between individuals and groups.
+Toward this goal, the clinical value of omics data and omics-based discoveries has been demonstrated repeatedly.
+A brief overview of two sub-fields illustrates the possibilities for future research and the potential value of these discoveries.
+
+Pharmacogenomics studies the genomic underpinnings of individual differences in drug response.
+Compared to the earlier-established field of pharmacogenetics, pharmacogenomics focuses on the simultaneous effects of many genes on drug metabolism and toxicity [@NzgwvuOF].
+As of August 2018, the FDA lists 284 drugs with pharmacogenomic information included on the label [@6IpGeQqM].
+
+Deep phenotyping attempts to understand and fully classify the biological components underlying disease [@16REdtjMj].
+This task is made challenging by the fact that there are often not many well-understood links between genotype and phenotype, especially in the context of complex disease.
+Attention to varied patient information and its meaningful incorporation will require a new paradigm in medical diagnosis.
+To better understand diverse patient subtypes, consideration must be given to the patient's full range of other diagnoses and symptoms, even if seemingly orthogonal [@gIKXoMmn].
+
+The ideal future for precision medicine would allow patients to be categorized into homogeneous groups for prevention, diagnosis, and treatment.
+That is, precision medicine seeks to uncover and account for the full range of individual variation that underlies differential disease succeptibility, prognosis, and treatment response.
+Whether in the form of specific clinical traits or detailed multiomic molecular attributes, precision medicine shows promise to overcome the heterogeneity of patients found in previously loosely-defined disease categories.
+If disease categorizations truly account for the totality of relevant factors, then patients within homogeneous categories can be treated systematically by the establishment of subtype-specific treatment regimes.
+Working toward such goals requires a broad approach, in which data from many different sources can be incorporated toward a more complete understanding of disease.
+
+### Multiomics
+
+While the clinical application of genomic data shows promise, biology cannot be fully explained by a single data type.
+Many diseases are affected in part by patients' genomic profiles, though few diseases are based soley in genetics.
+The central dogma of molecular biology states that genetic information flows from nucleic acid to nucleic acid and from nucleic acid to protein.
+This dogma alone suggests that processes and information beyond the genetic sequence of a patient's DNA will influence phenotype.
+_Multiomics_ refers to the set of such biologically-relevant molecular data sources: genomics, epigenomics, transcriptomics, proteomics, metabolomics, and the organismal microbiome.
+Complex diseases may be most explainable when viewed through the lenses of multiple such data sources.
+
+In recent years, the cost of omics data generation has fallen dramatically.
+A former target of $1,000 per genome sequenced now seems high as companies like Illumina promise a future of the, "$100 genome," [@Ml77ulah].
+Such rapid technological improvements have recently made the creation of large-scale multiomic datasets cost-effective.
+The Cancer Genome Atlas (TCGA) is a large-scale project which has collected patient information and tumor samples from over 11,000 patients in the United States.
+Its data include clinical information about patients, sample metadata, and multiomic sample data including gene expression, SNP genotypes, copy number variation, DNA methylation, exon sequencing, and microRNA profiles [@AK17eOgD].
+Another project underway is the International Cancer Genome Consortium (ICGC), which seeks to incorporate data from TCGA and around 50 other projects to provide researchers access to a massive quantity of tumor omics data [@ynLCqVng].
+The proliferation and falling costs of next-generation sequencing technologies have allowed these and other large consortia to create massive data resources covering many modalities and diverse diseases.
+Decreasing costs of data have not, however, resulted in a decrease in the cost of data analysis.
+Significant future research is needed to deeply probe multiomic datasets in order to extract the data that will guide future diagnostics and treatments.
+
+### Data integration
+
+Different data modalities can contain distinct pieces of medically-relevant information.
+This has led researchers and clinicians to consider how multiple data modalities can together provide a more complete picture of disease.
+An obvious approach for prediction or classification is the simple combination (or concatenation) of data from multiple modalities.
+The issue with such approaches has to do with the data themselves.
+Omics data often contain a very large number of features relative to the number of samples.
+This leads to a low signal-to-noise ratio, which is only worsened by the concatenation of data from two or more different streams.
+An alternative and promising approach involves extracting information from data modalities individually before combining extracted data into a single, more cohesive representation with a relatively higher signal-to-noise ratio.
+Several such techniques have been published and a subset of them will be covered later in this review.
+
+Data-integrative methods are advantageous because they allow researchers to discover connections which are attested by multiple sources of data.
+This advantage is extremely beneficial, as it allows integrative methods to achieve fewer false positives when compared to single-modality methods.
+Particularly in the age of high-throughput omics technologies, where data can be  staggeringly abundant, false positives are a major problem and steps must very often be taken to reduce their influence.
+
+Another advantage of methods which simultaneously consider multiple sources of data is their superior ability to uncover complex and emergent relationships.
+Data-integrative approaches to multiomic analysis are better suited to capture nonlinear relationships across data modalities than the simple combination of single-modality-derived conclusions.
+To better illustrate this point, consider the example biological system proposed by Ritchie et al. [@zR4nSSeT].
+They imagine two competing hypotheses to explain a complex phenotype.
+First, so-called "Hypothesis A" is a linear system of explanation in which genomic variation leads to variation in gene expression, leading to variation in protein expression, leading to a certain phenotype.
+The authors propose that Hypothesis A would be best tested by step-wise progress and incremental data reduction/filtering.
+An alternative system, "Hypothesis B", the nonlinear hypothesis, involves multi-interacting connections between genome, transcriptome, proteome, epigenome and phenotype.
+Hypothesis B, the authors suggest, would be better tested using methods that combine the relevant data modalities first, rather than filtering each type to those entities believed _a priori_ to be relevant to the phenotype.
+
+As an even simpler example, consider the exclusive or (XOR) function.
+It is impossible to learn the behavior of XOR while only able to modulate or observe one input.
+Only by observing both relevant inputs can the function be determined.
+Similarly, to completely understand complex and nonlinear biological systems, hidden variables must be unveiled and understood in the context of all the relevant data.
+This task is best achieved by simultaneously considering information from multiple sources, the goal of data integration methods.
+
+### Network approaches to data integration
+
+Networks are a logical way of representing many types of biological data.
+Nodes (or vertices) may represent biological or biomedical entities, while edges may represent a number of different connections or pairings between entities.
+Several graph-theoretic layers can be helpful in the construction and analysis of biological networks, including graph coloring, edge weighting, and the specification of edge direction.
+By including such additional layers of information, as well as the association of nodes and edges with biological metadata, networks can consolidate many types of information into a single, cohesive format.
+
+This review focuses on network-based methods for data integration, though such methods are not the only ones which show promise.
+For further discussion of alternative approaches, several excellent reviews and comparisons are available [@zR4nSSeT; @156UVA1sT; @lOKGIFIL].
+
+
+## Discussion
+
+<!-- ### Unsupervised methods -->
+
+Similarity Network Fusion (SNF), a method due to Wang, et al. [@1Hk7MyXmO], uses patient similarity networks to cluster patients and predict future labels.
+In these networks, nodes represent patients and the edges connecting patients represent their pairwise similarity.
+For each additional data modality, SNF creates a similarity network based on the patients' molecular profiles.
+The constructed modality-specific networks are then fused using an iterative linear algebra routine which is appropriate for studies of varied sample size and feature number, as well as for highly heterogeneous data sources.
+The authors applied SNF to three data modalities for a case study of glioblastoma multiforme (GBM), an aggressive brain tumor which is challenging to treat [@vvARGimo].
+Previous data-integrative approaches had shown varied results, including the identification of a variable numbers of disease subtypes, depending on the data modality under investigation.
+Using SNF, the authors were able to recover known clinically-relevant disease subtypes and show that these subtypes correspond to very different survival prognoses.
+Moreover, by probing the network resulting from the SNF method, the authors were able to show that the majority of the edges were supported by two or more different data modalities.
+
+
+
+<!-- ### Supervised methods -->
+
+[@X7vddlEk]
+[@1rJXR1pc]
+[@18IBB9pE2]
+[@DyO707G8]
+[@glnTeD5X]
+[@8kVDErgV]
+[@14murNoRs]
+[@aPrQxP1f]
+
+<!-- Review -->
+[@KOD2gdVS]
 
 
 
