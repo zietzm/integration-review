@@ -40,5 +40,47 @@
       "family": "Neville"
     }
   ]
+},
+{
+  "type": "webpage",
+  "standard_citation": "raw:fda",
+  "URL": "https://www.fda.gov/drugs/scienceresearch/ucm572698.htm",
+  "title": "Table of Pharmacogenomic Biomarkers in Drug Labeling",
+  "container-title": "U.S. Food and Drug Administration",
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        8,
+        3
+      ]
+    ]
+  },
+  "author": [
+    {
+      "literal": "U.S. Food and Drug Administration"
+    }
+  ]
+},
+{
+  "type": "webpage",
+  "standard_citation": "raw:aans",
+  "URL": "https://www.aans.org/Patients/Neurosurgical-Conditions-and-Treatments/Glioblastoma-Multiforme",
+  "title": "Glioblastoma Multiforme",
+  "container-title": "American Association of Neurological Surgeons",
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        8,
+        3
+      ]
+    ]
+  },
+  "author": [
+    {
+      "literal": "American Association of Neurological Surgeons"
+    }
+  ]
 }
 ]
