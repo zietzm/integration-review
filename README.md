@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/zietzm/integration-review/tree/gh-pages) branch hosts the contents of this directory at https://zietzm.github.io/integration-review/.
-The permalink for this webpage version is https://zietzm.github.io/integration-review/v/e6daa0c5fbced1188c58e1824a4e4a57df1b95d5/.
+The permalink for this webpage version is https://zietzm.github.io/integration-review/v/acf5d8f34f0f988af0dccd159b62f9bdbc249289/.
 To redirect to the permalink for the latest manuscript version at anytime, use the link https://zietzm.github.io/integration-review/v/freeze/.
 
 ## Files
@@ -36,4 +36,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`e6daa0c5fbced1188c58e1824a4e4a57df1b95d5`](https://github.com/zietzm/integration-review/commit/e6daa0c5fbced1188c58e1824a4e4a57df1b95d5).
+[`acf5d8f34f0f988af0dccd159b62f9bdbc249289`](https://github.com/zietzm/integration-review/commit/acf5d8f34f0f988af0dccd159b62f9bdbc249289).
