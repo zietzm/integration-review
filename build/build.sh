@@ -40,6 +40,7 @@ pandoc --verbose \
   --include-after-body=build/assets/anchors.html \
   --include-after-body=build/assets/hypothesis.html \
   --output=output/manuscript.html \
+  --reference-location=section \
   $INPUT_PATH
 
 # Create PDF output (unless BUILD_PDF environment variable equals "false")
@@ -61,6 +62,7 @@ if [ "$BUILD_PDF" != "false" ]; then
     --webtex=https://latex.codecogs.com/svg.latex? \
     --css=webpage/github-pandoc.css \
     --output=output/manuscript.pdf \
+    --reference-location=section \
     $INPUT_PATH
   rm images
 fi
