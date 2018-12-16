@@ -1,50 +1,6 @@
 [
   {
     "publisher": "Wiley",
-    "issue": "4",
-    "DOI": "10.1002/gepi.21628",
-    "type": "article-journal",
-    "page": "352-359",
-    "source": "Crossref",
-    "title": "A Bayesian Integrative Genomic Model for Pathway Analysis of Complex Traits",
-    "volume": "36",
-    "author": [
-      {
-        "given": "Brooke L.",
-        "family": "Fridley"
-      },
-      {
-        "given": "Steven",
-        "family": "Lund"
-      },
-      {
-        "given": "Gregory D.",
-        "family": "Jenkins"
-      },
-      {
-        "given": "Liewei",
-        "family": "Wang"
-      }
-    ],
-    "container-title": "Genetic Epidemiology",
-    "language": "en",
-    "issued": {
-      "date-parts": [
-        [
-          2012,
-          3,
-          28
-        ]
-      ]
-    },
-    "URL": "https://doi.org/f3xkqr",
-    "container-title-short": "Genet. Epidemiol.",
-    "PMCID": "PMC3894829",
-    "PMID": "22460780",
-    "id": "1rJXR1pc"
-  },
-  {
-    "publisher": "Wiley",
     "issue": "5",
     "DOI": "10.1002/humu.22080",
     "type": "article-journal",
@@ -73,6 +29,73 @@
     "container-title-short": "Hum. Mutat.",
     "PMID": "22504886",
     "id": "16REdtjMj"
+  },
+  {
+    "publisher": "Elsevier BV",
+    "issue": "1",
+    "DOI": "10.1016/j.cels.2017.06.003",
+    "type": "article-journal",
+    "page": "63-71.e6",
+    "source": "Crossref",
+    "title": "Unsupervised Extraction of Stable Expression Signatures from Public Compendia with an Ensemble of Neural Networks",
+    "volume": "5",
+    "author": [
+      {
+        "given": "Jie",
+        "family": "Tan"
+      },
+      {
+        "given": "Georgia",
+        "family": "Doing"
+      },
+      {
+        "given": "Kimberley A.",
+        "family": "Lewis"
+      },
+      {
+        "given": "Courtney E.",
+        "family": "Price"
+      },
+      {
+        "given": "Kathleen M.",
+        "family": "Chen"
+      },
+      {
+        "given": "Kyle C.",
+        "family": "Cady"
+      },
+      {
+        "given": "Barret",
+        "family": "Perchuk"
+      },
+      {
+        "given": "Michael T.",
+        "family": "Laub"
+      },
+      {
+        "given": "Deborah A.",
+        "family": "Hogan"
+      },
+      {
+        "given": "Casey S.",
+        "family": "Greene"
+      }
+    ],
+    "container-title": "Cell Systems",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          7
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gcw9f4",
+    "container-title-short": "Cell Systems",
+    "PMCID": "PMC5532071",
+    "PMID": "28711280",
+    "id": "Hlprh8TG"
   },
   {
     "publisher": "Elsevier BV",
@@ -1823,6 +1846,80 @@
   },
   {
     "publisher": "Springer Nature",
+    "issue": "5",
+    "DOI": "10.1038/nbt1203",
+    "type": "article-journal",
+    "page": "537-544",
+    "source": "Crossref",
+    "title": "Gene prioritization through genomic data fusion",
+    "volume": "24",
+    "author": [
+      {
+        "given": "Stein",
+        "family": "Aerts"
+      },
+      {
+        "given": "Diether",
+        "family": "Lambrechts"
+      },
+      {
+        "given": "Sunit",
+        "family": "Maity"
+      },
+      {
+        "given": "Peter",
+        "family": "Van Loo"
+      },
+      {
+        "given": "Bert",
+        "family": "Coessens"
+      },
+      {
+        "given": "Frederik",
+        "family": "De Smet"
+      },
+      {
+        "given": "Leon-Charles",
+        "family": "Tranchevent"
+      },
+      {
+        "given": "Bart",
+        "family": "De Moor"
+      },
+      {
+        "given": "Peter",
+        "family": "Marynen"
+      },
+      {
+        "given": "Bassem",
+        "family": "Hassan"
+      },
+      {
+        "given": "Peter",
+        "family": "Carmeliet"
+      },
+      {
+        "given": "Yves",
+        "family": "Moreau"
+      }
+    ],
+    "container-title": "Nature Biotechnology",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          5
+        ]
+      ]
+    },
+    "URL": "https://doi.org/bcmjgf",
+    "container-title-short": "Nat Biotechnol",
+    "PMID": "16680138",
+    "id": "dTwzcIZ4"
+  },
+  {
+    "publisher": "Springer Nature",
     "issue": "10",
     "DOI": "10.1038/ng.2764",
     "type": "article-journal",
@@ -1887,6 +1984,94 @@
   },
   {
     "publisher": "Springer Nature",
+    "issue": "6",
+    "DOI": "10.1038/ng.3259",
+    "type": "article-journal",
+    "page": "569-576",
+    "source": "Crossref",
+    "title": "Understanding multicellular function and disease with human tissue-specific networks",
+    "volume": "47",
+    "author": [
+      {
+        "given": "Casey S",
+        "family": "Greene"
+      },
+      {
+        "given": "Arjun",
+        "family": "Krishnan"
+      },
+      {
+        "given": "Aaron K",
+        "family": "Wong"
+      },
+      {
+        "given": "Emanuela",
+        "family": "Ricciotti"
+      },
+      {
+        "given": "Rene A",
+        "family": "Zelaya"
+      },
+      {
+        "given": "Daniel S",
+        "family": "Himmelstein"
+      },
+      {
+        "given": "Ran",
+        "family": "Zhang"
+      },
+      {
+        "given": "Boris M",
+        "family": "Hartmann"
+      },
+      {
+        "given": "Elena",
+        "family": "Zaslavsky"
+      },
+      {
+        "given": "Stuart C",
+        "family": "Sealfon"
+      },
+      {
+        "given": "Daniel I",
+        "family": "Chasman"
+      },
+      {
+        "given": "Garret A",
+        "family": "FitzGerald"
+      },
+      {
+        "given": "Kara",
+        "family": "Dolinski"
+      },
+      {
+        "given": "Tilo",
+        "family": "Grosser"
+      },
+      {
+        "given": "Olga G",
+        "family": "Troyanskaya"
+      }
+    ],
+    "container-title": "Nature Genetics",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          27
+        ]
+      ]
+    },
+    "URL": "https://doi.org/f7dvkv",
+    "container-title-short": "Nat Genet",
+    "PMCID": "PMC4828725",
+    "PMID": "25915600",
+    "id": "CVF61Un5"
+  },
+  {
+    "publisher": "Springer Nature",
     "issue": "3",
     "DOI": "10.1038/nmeth.2810",
     "type": "article-journal",
@@ -1946,61 +2131,6 @@
   },
   {
     "publisher": "Springer Nature",
-    "issue": "1",
-    "DOI": "10.1038/nrc2294",
-    "type": "article-journal",
-    "page": "37-49",
-    "source": "Crossref",
-    "title": "The properties of high-dimensional data spaces: implications for exploring gene and protein expression data",
-    "volume": "8",
-    "author": [
-      {
-        "given": "Robert",
-        "family": "Clarke"
-      },
-      {
-        "given": "Habtom W.",
-        "family": "Ressom"
-      },
-      {
-        "given": "Antai",
-        "family": "Wang"
-      },
-      {
-        "given": "Jianhua",
-        "family": "Xuan"
-      },
-      {
-        "given": "Minetta C.",
-        "family": "Liu"
-      },
-      {
-        "given": "Edmund A.",
-        "family": "Gehan"
-      },
-      {
-        "given": "Yue",
-        "family": "Wang"
-      }
-    ],
-    "container-title": "Nature Reviews Cancer",
-    "language": "en",
-    "issued": {
-      "date-parts": [
-        [
-          2008,
-          1
-        ]
-      ]
-    },
-    "URL": "https://doi.org/ffksnf",
-    "container-title-short": "Nat Rev Cancer",
-    "PMCID": "PMC2238676",
-    "PMID": "18097463",
-    "id": "KOD2gdVS"
-  },
-  {
-    "publisher": "Springer Nature",
     "issue": "2",
     "DOI": "10.1038/nrg3868",
     "type": "article-journal",
@@ -2047,124 +2177,63 @@
     "id": "zR4nSSeT"
   },
   {
-    "publisher": "Oxford University Press (OUP)",
-    "issue": "16",
-    "DOI": "10.1093/bioinformatics/bth294",
+    "publisher": "Royal Society of Chemistry (RSC)",
+    "issue": "12",
+    "DOI": "10.1039/c3mb70327d",
     "type": "article-journal",
-    "page": "2626-2635",
+    "page": "2971",
     "source": "Crossref",
-    "title": "A statistical framework for genomic data fusion",
-    "volume": "20",
+    "title": "Network-based analysis of omics with multi-objective optimization",
+    "volume": "9",
     "author": [
       {
-        "given": "G. R. G.",
-        "family": "Lanckriet"
+        "given": "Ettore",
+        "family": "Mosca"
       },
       {
-        "given": "T.",
-        "family": "De Bie"
-      },
-      {
-        "given": "N.",
-        "family": "Cristianini"
-      },
-      {
-        "given": "M. I.",
-        "family": "Jordan"
-      },
-      {
-        "given": "W. S.",
-        "family": "Noble"
+        "given": "Luciano",
+        "family": "Milanesi"
       }
     ],
-    "container-title": "Bioinformatics",
+    "container-title": "Molecular BioSystems",
     "language": "en",
     "issued": {
       "date-parts": [
         [
-          2004,
-          5,
-          6
+          2013
         ]
       ]
     },
-    "URL": "https://doi.org/bsph7z",
-    "container-title-short": "Bioinformatics",
-    "PMID": "15130933",
-    "id": "glnTeD5X"
+    "URL": "https://doi.org/gfq996",
+    "container-title-short": "Mol. BioSyst.",
+    "PMID": "24121459",
+    "id": "sUdFrajH"
   },
   {
     "publisher": "Oxford University Press (OUP)",
     "issue": "Suppl 1",
-    "DOI": "10.1093/bioinformatics/bti1007",
+    "DOI": "10.1093/bioinformatics/18.suppl_1.s233",
     "type": "article-journal",
-    "page": "i47-i56",
+    "page": "S233-S240",
     "source": "Crossref",
-    "title": "Protein function prediction via graph kernels",
-    "volume": "21",
+    "title": "Discovering regulatory and signalling circuits in molecular interaction networks",
+    "volume": "18",
     "author": [
       {
-        "given": "K. M.",
-        "family": "Borgwardt"
+        "given": "T.",
+        "family": "Ideker"
       },
       {
-        "given": "C. S.",
-        "family": "Ong"
-      },
-      {
-        "given": "S.",
-        "family": "Schonauer"
-      },
-      {
-        "given": "S. V. N.",
-        "family": "Vishwanathan"
-      },
-      {
-        "given": "A. J.",
-        "family": "Smola"
-      },
-      {
-        "given": "H.-P.",
-        "family": "Kriegel"
-      }
-    ],
-    "container-title": "Bioinformatics",
-    "language": "en",
-    "issued": {
-      "date-parts": [
-        [
-          2005,
-          6,
-          1
-        ]
-      ]
-    },
-    "URL": "https://doi.org/c6s8jt",
-    "container-title-short": "Bioinformatics",
-    "PMID": "15961493",
-    "id": "8kVDErgV"
-  },
-  {
-    "publisher": "Oxford University Press (OUP)",
-    "issue": "Suppl 2",
-    "DOI": "10.1093/bioinformatics/bti1110",
-    "type": "article-journal",
-    "page": "ii59-ii65",
-    "source": "Crossref",
-    "title": "Fast protein classification with multiple networks",
-    "volume": "21",
-    "author": [
-      {
-        "given": "K.",
-        "family": "Tsuda"
-      },
-      {
-        "given": "H.",
-        "family": "Shin"
+        "given": "O.",
+        "family": "Ozier"
       },
       {
         "given": "B.",
-        "family": "Scholkopf"
+        "family": "Schwikowski"
+      },
+      {
+        "given": "A. F.",
+        "family": "Siegel"
       }
     ],
     "container-title": "Bioinformatics",
@@ -2172,16 +2241,57 @@
     "issued": {
       "date-parts": [
         [
-          2005,
-          9,
+          2002,
+          7,
           1
         ]
       ]
     },
-    "URL": "https://doi.org/bhdtqm",
+    "URL": "https://doi.org/cwkstn",
     "container-title-short": "Bioinformatics",
-    "PMID": "16204126",
-    "id": "14murNoRs"
+    "id": "sL4vH9fY"
+  },
+  {
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "13",
+    "DOI": "10.1093/bioinformatics/btm187",
+    "type": "article-journal",
+    "page": "i125-i132",
+    "source": "Crossref",
+    "title": "Kernel-based data fusion for gene prioritization",
+    "volume": "23",
+    "author": [
+      {
+        "given": "Tijl",
+        "family": "De Bie"
+      },
+      {
+        "given": "Léon-Charles",
+        "family": "Tranchevent"
+      },
+      {
+        "given": "Liesbeth M. M.",
+        "family": "van Oeffelen"
+      },
+      {
+        "given": "Yves",
+        "family": "Moreau"
+      }
+    ],
+    "container-title": "Bioinformatics",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          7,
+          1
+        ]
+      ]
+    },
+    "URL": "https://doi.org/b46cvm",
+    "PMID": "17646288",
+    "id": "10RgFYeEF"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -2223,33 +2333,25 @@
   },
   {
     "publisher": "Oxford University Press (OUP)",
-    "issue": "5",
-    "DOI": "10.1093/bioinformatics/btt572",
+    "issue": "22",
+    "DOI": "10.1093/bioinformatics/btp543",
     "type": "article-journal",
-    "page": "698-705",
+    "page": "2906-2912",
     "source": "Crossref",
-    "title": "ATHENA: the analysis tool for heritable and environmental network associations",
-    "volume": "30",
+    "title": "Integrative clustering of multiple genomic data types using a joint latent variable model with application to breast and lung cancer subtype analysis",
+    "volume": "25",
     "author": [
       {
-        "given": "Emily R.",
-        "family": "Holzinger"
+        "given": "Ronglai",
+        "family": "Shen"
       },
       {
-        "given": "Scott M.",
-        "family": "Dudek"
+        "given": "Adam B.",
+        "family": "Olshen"
       },
       {
-        "given": "Alex T.",
-        "family": "Frase"
-      },
-      {
-        "given": "Sarah A.",
-        "family": "Pendergrass"
-      },
-      {
-        "given": "Marylyn D.",
-        "family": "Ritchie"
+        "given": "Marc",
+        "family": "Ladanyi"
       }
     ],
     "container-title": "Bioinformatics",
@@ -2257,16 +2359,16 @@
     "issued": {
       "date-parts": [
         [
-          2013,
-          10,
-          21
+          2009,
+          9,
+          16
         ]
       ]
     },
-    "URL": "https://doi.org/gfq96v",
-    "PMCID": "PMC3933870",
-    "PMID": "24149050",
-    "id": "DyO707G8"
+    "URL": "https://doi.org/dvdz5s",
+    "PMCID": "PMC2800366",
+    "PMID": "19759197",
+    "id": "cMcCaN4S"
   },
   {
     "publisher": "American Association for the Advancement of Science (AAAS)",
@@ -2295,6 +2397,48 @@
     },
     "URL": "https://doi.org/cw248b",
     "id": "NzgwvuOF"
+  },
+  {
+    "publisher": "Springer Nature",
+    "issue": "1",
+    "DOI": "10.1186/1471-2164-13-282",
+    "type": "article-journal",
+    "page": "282",
+    "source": "Crossref",
+    "title": "NetWalker: a contextual network analysis tool for functional genomics",
+    "volume": "13",
+    "author": [
+      {
+        "given": "Kakajan",
+        "family": "Komurov"
+      },
+      {
+        "given": "Serkan",
+        "family": "Dursun"
+      },
+      {
+        "given": "Serkan",
+        "family": "Erdin"
+      },
+      {
+        "given": "Prahlad T",
+        "family": "Ram"
+      }
+    ],
+    "container-title": "BMC Genomics",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gb3fdc",
+    "container-title-short": "BMC Genomics",
+    "PMCID": "PMC3439272",
+    "PMID": "22732065",
+    "id": "19R0rfh1g"
   },
   {
     "publisher": "Springer Nature",
@@ -2352,6 +2496,178 @@
     "id": "lOKGIFIL"
   },
   {
+    "publisher": "Springer Nature",
+    "issue": "S4",
+    "DOI": "10.1186/s12859-016-0912-1",
+    "type": "article-journal",
+    "source": "Crossref",
+    "title": "Multiplex methods provide effective integration of multi-omic data in genome-scale models",
+    "volume": "17",
+    "author": [
+      {
+        "given": "Claudio",
+        "family": "Angione"
+      },
+      {
+        "given": "Max",
+        "family": "Conway"
+      },
+      {
+        "given": "Pietro",
+        "family": "Lió"
+      }
+    ],
+    "container-title": "BMC Bioinformatics",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          2
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gfq976",
+    "container-title-short": "BMC Bioinformatics",
+    "PMCID": "PMC4896256",
+    "PMID": "26961692",
+    "id": "zWyXFgao"
+  },
+  {
+    "publisher": "Public Library of Science (PLoS)",
+    "issue": "2",
+    "DOI": "10.1371/journal.pcbi.1003983",
+    "type": "article-journal",
+    "page": "e1003983",
+    "source": "Crossref",
+    "title": "Integrative Multi-omics Module Network Inference with Lemon-Tree",
+    "volume": "11",
+    "author": [
+      {
+        "given": "Eric",
+        "family": "Bonnet"
+      },
+      {
+        "given": "Laurence",
+        "family": "Calzone"
+      },
+      {
+        "given": "Tom",
+        "family": "Michoel"
+      }
+    ],
+    "container-title": "PLOS Computational Biology",
+    "language": "en",
+    "editor": [
+      {
+        "given": "Paul P",
+        "family": "Gardner"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          2,
+          13
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gcpgc3",
+    "container-title-short": "PLoS Comput Biol",
+    "PMCID": "PMC4332478",
+    "PMID": "25679508",
+    "id": "v5FVh9X6"
+  },
+  {
+    "publisher": "Public Library of Science (PLoS)",
+    "issue": "7",
+    "DOI": "10.1371/journal.pcbi.1004259",
+    "type": "article-journal",
+    "page": "e1004259",
+    "source": "Crossref",
+    "title": "Heterogeneous Network Edge Prediction: A Data Integration Approach to Prioritize Disease-Associated Genes",
+    "volume": "11",
+    "author": [
+      {
+        "given": "Daniel S.",
+        "family": "Himmelstein"
+      },
+      {
+        "given": "Sergio E.",
+        "family": "Baranzini"
+      }
+    ],
+    "container-title": "PLOS Computational Biology",
+    "language": "en",
+    "editor": [
+      {
+        "given": "Hua",
+        "family": "Tang"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          7,
+          9
+        ]
+      ]
+    },
+    "URL": "https://doi.org/98q",
+    "container-title-short": "PLoS Comput Biol",
+    "PMCID": "PMC4497619",
+    "PMID": "26158728",
+    "id": "WkPlH1ds"
+  },
+  {
+    "publisher": "Public Library of Science (PLoS)",
+    "issue": "12",
+    "DOI": "10.1371/journal.pcbi.1004595",
+    "type": "article-journal",
+    "page": "e1004595",
+    "source": "Crossref",
+    "title": "Network-Based Integration of Disparate Omic Data To Identify \"Silent Players\" in Cancer",
+    "volume": "11",
+    "author": [
+      {
+        "given": "Matthew",
+        "family": "Ruffalo"
+      },
+      {
+        "given": "Mehmet",
+        "family": "Koyutürk"
+      },
+      {
+        "given": "Roded",
+        "family": "Sharan"
+      }
+    ],
+    "container-title": "PLOS Computational Biology",
+    "language": "en",
+    "editor": [
+      {
+        "given": "Xianghong Jasmine",
+        "family": "Zhou"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          12,
+          18
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gfq992",
+    "container-title-short": "PLoS Comput Biol",
+    "PMCID": "PMC4684294",
+    "PMID": "26683094",
+    "id": "Vvpiw3GG"
+  },
+  {
     "publisher": "Public Library of Science (PLoS)",
     "issue": "11",
     "DOI": "10.1371/journal.pone.0024709",
@@ -2406,6 +2722,64 @@
     "id": "18IBB9pE2"
   },
   {
+    "publisher": "Public Library of Science (PLoS)",
+    "issue": "10",
+    "DOI": "10.1371/journal.pone.0140072",
+    "type": "article-journal",
+    "page": "e0140072",
+    "source": "Crossref",
+    "title": "Robust Selection Algorithm (RSA) for Multi-Omic Biomarker Discovery; Integration with Functional Network Analysis to Identify miRNA Regulated Pathways in Multiple Cancers",
+    "volume": "10",
+    "author": [
+      {
+        "given": "Vasudha",
+        "family": "Sehgal"
+      },
+      {
+        "given": "Elena G.",
+        "family": "Seviour"
+      },
+      {
+        "given": "Tyler J.",
+        "family": "Moss"
+      },
+      {
+        "given": "Gordon B.",
+        "family": "Mills"
+      },
+      {
+        "given": "Robert",
+        "family": "Azencott"
+      },
+      {
+        "given": "Prahlad T.",
+        "family": "Ram"
+      }
+    ],
+    "container-title": "PLOS ONE",
+    "language": "en",
+    "editor": [
+      {
+        "given": "Xia",
+        "family": "Li"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          10,
+          27
+        ]
+      ]
+    },
+    "URL": "https://doi.org/f78knm",
+    "container-title-short": "PLoS ONE",
+    "PMCID": "PMC4623517",
+    "PMID": "26505200",
+    "id": "dMXD2313"
+  },
+  {
     "publisher": "Frontiers Media SA",
     "DOI": "10.3389/fgene.2017.00084",
     "type": "article-journal",
@@ -2443,6 +2817,110 @@
     "id": "156UVA1sT"
   },
   {
+    "publisher": "eLife Sciences Publications, Ltd",
+    "abstract": "<jats:p>The ability to computationally predict whether a compound treats a disease would improve the economy and success rate of drug approval. This study describes Project Rephetio to systematically model drug efficacy based on 755 existing treatments. First, we constructed Hetionet (neo4j.het.io), an integrative network encoding knowledge from millions of biomedical studies. Hetionet v1.0 consists of 47,031 nodes of 11 types and 2,250,197 relationships of 24 types. Data were integrated from 29 public resources to connect compounds, diseases, genes, anatomies, pathways, biological processes, molecular functions, cellular components, pharmacologic classes, side effects, and symptoms. Next, we identified network patterns that distinguish treatments from non-treatments. Then, we predicted the probability of treatment for 209,168 compound–disease pairs (het.io/repurpose). Our predictions validated on two external sets of treatment and provided pharmacological insights on epilepsy, suggesting they will help prioritize drug repurposing candidates. This study was entirely open and received realtime feedback from 40 community members.</jats:p>",
+    "DOI": "10.7554/elife.26726",
+    "type": "article-journal",
+    "source": "Crossref",
+    "title": "Systematic integration of biomedical knowledge prioritizes drugs for repurposing",
+    "volume": "6",
+    "author": [
+      {
+        "given": "Daniel Scott",
+        "family": "Himmelstein"
+      },
+      {
+        "given": "Antoine",
+        "family": "Lizee"
+      },
+      {
+        "given": "Christine",
+        "family": "Hessler"
+      },
+      {
+        "given": "Leo",
+        "family": "Brueggeman"
+      },
+      {
+        "given": "Sabrina L",
+        "family": "Chen"
+      },
+      {
+        "given": "Dexter",
+        "family": "Hadley"
+      },
+      {
+        "given": "Ari",
+        "family": "Green"
+      },
+      {
+        "given": "Pouya",
+        "family": "Khankhanian"
+      },
+      {
+        "given": "Sergio E",
+        "family": "Baranzini"
+      }
+    ],
+    "container-title": "eLife",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          22
+        ]
+      ]
+    },
+    "URL": "https://doi.org/cdfk",
+    "PMCID": "PMC5640425",
+    "PMID": "28936969",
+    "id": "O21tn8vf"
+  },
+  {
+    "type": "webpage",
+    "URL": "https://www.aans.org/Patients/Neurosurgical-Conditions-and-Treatments/Glioblastoma-Multiforme",
+    "title": "Glioblastoma Multiforme",
+    "container-title": "American Association of Neurological Surgeons",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          3
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "American Association of Neurological Surgeons"
+      }
+    ],
+    "id": "1Gtz7k2li"
+  },
+  {
+    "type": "webpage",
+    "URL": "https://www.fda.gov/drugs/scienceresearch/ucm572698.htm",
+    "title": "Table of Pharmacogenomic Biomarkers in Drug Labeling",
+    "container-title": "U.S. Food and Drug Administration",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          3
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "U.S. Food and Drug Administration"
+      }
+    ],
+    "id": "1lcxSq1K"
+  },
+  {
     "type": "article-newspaper",
     "URL": "https://ft.com/content/017a3a50-f6f1-11e7-a4c9-bbdefa4f210b",
     "title": "Cheaper DNA sequencing unlocks secrets of rare diseases",
@@ -2463,15 +2941,5 @@
       }
     ],
     "id": "Ml77ulah"
-  },
-  {
-    "URL": "https://www.aans.org/Patients/Neurosurgical-Conditions-and-Treatments/Glioblastoma-Multiforme",
-    "type": "webpage",
-    "id": "vvARGimo"
-  },
-  {
-    "URL": "https://www.fda.gov/drugs/scienceresearch/ucm572698.htm",
-    "type": "webpage",
-    "id": "6IpGeQqM"
   }
 ]
