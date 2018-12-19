@@ -17,9 +17,9 @@ title: Network Methods for Multiomic Data Integration
 
 <small><em>
 This manuscript
-([permalink](https://zietzm.github.io/integration-review/v/77132ee575ea2dee9a41ff86b59d4efad7652d8a/))
+([permalink](https://zietzm.github.io/integration-review/v/8a8669d23996ba12de8c189db345c09fc3eefa7a/))
 was automatically generated
-from [zietzm/integration-review@77132ee](https://github.com/zietzm/integration-review/tree/77132ee575ea2dee9a41ff86b59d4efad7652d8a)
+from [zietzm/integration-review@8a8669d](https://github.com/zietzm/integration-review/tree/8a8669d23996ba12de8c189db345c09fc3eefa7a)
 on December 19, 2018.
 </em></small>
 
@@ -164,7 +164,7 @@ A very useful application of unsupervised methods is the transformation of large
 For example, Greene et al. [@CVF61Un5] constructed tissue-specific functional gene networks using data from over 14,000 experiments.
 By integrating tissue-specific expression information in a Bayesian framework, the authors constructed networks of tissue-specific gene functional relationships, with edge weights representing the posterior probability of a functional relationship.
 These edges weights were determined by a naive Bayes classifier that was trained to predict positive functional relationships based on tissue-specific data.
-A key insight by the authors was that tissue-specific networks represent as data-driven method for the analysis of noisy GWAS data.
+A key insight by the authors was that tissue-specific networks represent a data-driven method for the analysis of noisy GWAS data.
 The corresponding method is outlined later in this review.
 
 Another data-integrative application of functional networks was proposed by Sehgal et al. [@dMXD2313], who developed a methodology called the Robust Selection Algorithm (RSA) to identify micro-RNAs (miRNA) which are oncogenic or tumor-suppressing.
@@ -242,7 +242,7 @@ As features to their predictive models, the authors devised a novel metric of no
 Computed by traversing the network across multiple semantic types of paths (eg: Gene-Associates-Disease-treated by-Compound), DWPC allowed the authors to predict withheld high-confidence associations from the GWAS catalog at an area under the receiver operating curve (AUROC) of 0.83.
 
 In a follow-up application [@O21tn8vf] the authors utilized a similar method to predict candidates for drug repurposing within a much-enlarged network.
-Predicting treatments for epilepsy, the authors were able to recapture (withheld) 23 of 25 known anti-epileptic drugs.
+Predicting treatments for epilepsy, the authors were able to recapture 23 of 25 (withheld) known anti-epileptic drugs.
 One of the advantages of the heterogeneous network method is that connections between any two types of biological entities in the network can be predicted using the same methodology.
 A drawback of this method is that gold-standard data must be obtained for the connection-type to be predicted, which could be challenging for certain types of biological connections.
 
