@@ -17,9 +17,9 @@ title: Network Methods for Multiomic Data Integration
 
 <small><em>
 This manuscript
-([permalink](https://zietzm.github.io/integration-review/v/8a8669d23996ba12de8c189db345c09fc3eefa7a/))
+([permalink](https://zietzm.github.io/integration-review/v/6c6f48894e025a274dac7b3eba85aedb45cc2982/))
 was automatically generated
-from [zietzm/integration-review@8a8669d](https://github.com/zietzm/integration-review/tree/8a8669d23996ba12de8c189db345c09fc3eefa7a)
+from [zietzm/integration-review@6c6f488](https://github.com/zietzm/integration-review/tree/6c6f48894e025a274dac7b3eba85aedb45cc2982)
 on December 19, 2018.
 </em></small>
 
