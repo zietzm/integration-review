@@ -5,7 +5,7 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="author" content="Michael Zietz" />
-  <meta name="dcterms.date" content="2018-12-16" />
+  <meta name="dcterms.date" content="2018-12-19" />
   <meta name="keywords" content="markdown, publishing, manubot" />
   <title>Network Methods for Multiomic Data Integration</title>
   <style type="text/css">
@@ -27,7 +27,7 @@
 <header id="title-block-header">
 <h1 class="title">Network Methods for Multiomic Data Integration</h1>
 </header>
-<p><small><em> This manuscript (<a href="https://zietzm.github.io/integration-review/v/acf5d8f34f0f988af0dccd159b62f9bdbc249289/">permalink</a>) was automatically generated from <a href="https://github.com/zietzm/integration-review/tree/acf5d8f34f0f988af0dccd159b62f9bdbc249289">zietzm/integration-review@acf5d8f</a> on December 16, 2018. </em></small></p>
+<p><small><em> This manuscript (<a href="https://zietzm.github.io/integration-review/v/77132ee575ea2dee9a41ff86b59d4efad7652d8a/">permalink</a>) was automatically generated from <a href="https://github.com/zietzm/integration-review/tree/77132ee575ea2dee9a41ff86b59d4efad7652d8a">zietzm/integration-review@77132ee</a> on December 19, 2018. </em></small></p>
 <h2 id="authors">Authors</h2>
 <ul>
 <li><strong>Michael Zietz</strong><br> <img src="images/orcid.svg" alt="ORCID icon" width="13" height="13" /> <a href="https://orcid.org/0000-0003-0539-630X">0000-0003-0539-630X</a> · <img src="images/github.svg" alt="GitHub icon" width="13" height="13" /> <a href="https://github.com/zietzm">zietzm</a><br> <small> Department of Physics, Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania </small></li>
@@ -51,7 +51,7 @@
 <p>As an even simpler example, consider the exclusive or (XOR) function. It is impossible to learn the behavior of XOR while only able to modulate or observe one input. Only by observing both relevant inputs can the function be determined. Similarly, to completely understand complex and nonlinear biological systems, hidden variables must be unveiled and understood in the context of all the relevant data. This task is best achieved by simultaneously considering information from multiple sources, the goal of data integration methods.</p>
 <h3 id="network-approaches-to-data-integration">Network approaches to data integration</h3>
 <p>Networks are a logical way of representing many types of biological data. Nodes (or vertices) may represent biological or biomedical entities, while edges may represent a number of different connections or pairings between entities. Several graph-theoretic layers can be helpful in the construction and analysis of biological networks, including graph coloring, edge weighting, and the specification of edge direction. By including such additional layers of information, as well as the association of nodes and edges with biological metadata, networks can consolidate many types of information into a single, cohesive format.</p>
-<p>This review focuses on network-based methods for data integration, though such methods are not the only ones which show promise. For further discussion of alternative approaches, several excellent reviews and comparisons are available [<span class="citation" data-cites="zR4nSSeT"><a href="#ref-zR4nSSeT">8</a></span>; <span class="citation" data-cites="156UVA1sT"><a href="#ref-156UVA1sT">9</a></span>; <span class="citation" data-cites="lOKGIFIL"><a href="#ref-lOKGIFIL">10</a></span>; 10.1186/s12859-015-0857-9].</p>
+<p>This review focuses on network-based methods for data integration, though such methods are not the only ones which show promise. For further discussion of alternative approaches, several excellent reviews and comparisons are available <span class="citation" data-cites="zR4nSSeT 156UVA1sT lOKGIFIL lOKGIFIL">[<a href="#ref-lOKGIFIL">10</a>,<a href="#ref-lOKGIFIL">10</a>,<a href="#ref-zR4nSSeT">8</a>,<a href="#ref-156UVA1sT">9</a>]</span>.</p>
 <h2 id="discussion">Discussion</h2>
 <p>Machine learning techniques have broadly been classified into two disjoint categories, supervised and unsupervised.<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a> While in reality the two categories represent endpoints of a continuum, this review will consider the only the binary discretum. Through such a lens, “supervised” refers to techniques which attempt to learn mappings between specified inputs and outputs. A simple example of a supervised learning technique is logistic regression, which attempts to assign binary labels to data points after being trained on labeled data. “Unsupervised” learning refers to techniques which identify characteristics of data without labels. A simple example of unsupervised learning is principal component analysis (PCA), which transforms observations onto a new set of coordinates that represent the axes of greatest variance. The discussion that follows is split between supervised and unsupervised methods. At present, greater advances appear to have been made in unsupervised methods, though supervised methods can be strengthened and enabled by first applying unsupervised data integration, feature selection, or de-noising.</p>
 <h3 id="unsupervised-methods">Unsupervised methods</h3>

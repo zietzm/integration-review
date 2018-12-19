@@ -1,7 +1,7 @@
 ---
 author-meta:
 - Michael Zietz
-date-meta: '2018-12-16'
+date-meta: '2018-12-19'
 keywords:
 - markdown
 - publishing
@@ -17,10 +17,10 @@ title: Network Methods for Multiomic Data Integration
 
 <small><em>
 This manuscript
-([permalink](https://zietzm.github.io/integration-review/v/acf5d8f34f0f988af0dccd159b62f9bdbc249289/))
+([permalink](https://zietzm.github.io/integration-review/v/77132ee575ea2dee9a41ff86b59d4efad7652d8a/))
 was automatically generated
-from [zietzm/integration-review@acf5d8f](https://github.com/zietzm/integration-review/tree/acf5d8f34f0f988af0dccd159b62f9bdbc249289)
-on December 16, 2018.
+from [zietzm/integration-review@77132ee](https://github.com/zietzm/integration-review/tree/77132ee575ea2dee9a41ff86b59d4efad7652d8a)
+on December 19, 2018.
 </em></small>
 
 ## Authors
@@ -142,7 +142,7 @@ Several graph-theoretic layers can be helpful in the construction and analysis o
 By including such additional layers of information, as well as the association of nodes and edges with biological metadata, networks can consolidate many types of information into a single, cohesive format.
 
 This review focuses on network-based methods for data integration, though such methods are not the only ones which show promise.
-For further discussion of alternative approaches, several excellent reviews and comparisons are available [@zR4nSSeT; @156UVA1sT; @lOKGIFIL; 10.1186/s12859-015-0857-9].
+For further discussion of alternative approaches, several excellent reviews and comparisons are available [@zR4nSSeT; @156UVA1sT; @lOKGIFIL; @lOKGIFIL].
 
 
 ## Discussion

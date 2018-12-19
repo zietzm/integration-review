@@ -1,5 +1,5 @@
 {
-  "date": "December 16, 2018",
+  "date": "December 19, 2018",
   "authors": [
     {
       "github": "zietzm",
@@ -25,7 +25,7 @@
     "repo_slug": "zietzm/integration-review",
     "repo_owner": "zietzm",
     "repo_name": "integration-review",
-    "commit": "acf5d8f34f0f988af0dccd159b62f9bdbc249289"
+    "commit": "77132ee575ea2dee9a41ff86b59d4efad7652d8a"
   },
   "manuscript_stats": {
     "reference_counts": {
